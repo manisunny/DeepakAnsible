@@ -11,6 +11,5 @@
                     password: Passw0rd
                     access_key_state: create
             loop:
-                    - sunnysinghchaggar
-                    - abdul
-                    - paresh
+                    - deepak
+                    - sunny
